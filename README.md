@@ -9,16 +9,7 @@ This project is a technical exercise demonstrating a simple neural network with 
    git clone https://github.com/your-repo/simple-neural-network.git
    cd simple-neural-network
    ```
-2. Set up a virtual environment:
-   ```sh
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-3. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
+   
 ## Usage
 Run the training script with:
 ```sh
