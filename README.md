@@ -6,8 +6,8 @@ This project is a technical exercise demonstrating a simple neural network with 
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/simple_ai.git
-   cd simple_ai
+   git clone https://github.com/your-repo/simple-neural-network.git
+   cd simple-neural-network
    ```
 2. Set up a virtual environment:
    ```sh
