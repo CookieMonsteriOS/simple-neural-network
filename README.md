@@ -1,34 +1,56 @@
-# Simple AI - Neural Network Training
+# 🤖 Simple AI – Neural Network Training  
 
-## Overview
-This project is a technical exercise demonstrating a simple neural network with forward and backward propagation. It is implemented in Python and trains on basic input data.
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)  
+[![NumPy](https://img.shields.io/badge/numpy-1.26%2B-lightblue.svg)](https://numpy.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 
-## Installation
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-repo/simple-neural-network.git
-   cd simple-neural-network
-   ```
-   
-## Usage
-Run the training script with:
-```sh
+---
+
+## 📖 Overview  
+This project is a **technical exercise** demonstrating a **simple neural network** with both **forward and backward propagation**.  
+It is implemented in **Python** and trains on basic input data for educational purposes.  
+
+---
+
+## 📦 Installation  
+Clone this repository:  
+
+```bash
+git clone https://github.com/your-repo/simple-neural-network.git
+cd simple-neural-network
+
+▶️ Usage
+
+Run the training script:
 python simple_ai.py
-```
 
-## Debugging
-To debug in VS Code:
-1. Open the project folder in VS Code.
-2. Configure `launch.json` for debugging.
-3. Set breakpoints and run the debugger.
 
-## Technical Details
-- Implements a simple neural network with:
-  - Forward propagation
-  - Backward propagation
-  - Weight and bias updates using gradient descent
-- Uses matrix-vector operations for calculations.
+🐞 Debugging in VS Code
 
-## Notes
-This is a **technical exercise** designed for educational purposes and may not be optimized for production use.
+Open the project folder in VS Code.
 
+Configure launch.json for debugging.
+
+Set breakpoints and run the debugger to step through the training process.
+
+⚙️ Technical Details
+
+This neural network implementation includes:
+
+Forward propagation
+
+Backward propagation
+
+Weight & bias updates using gradient descent
+
+Efficient matrix–vector operations for computations
+
+📝 Notes
+
+This project is intended for educational purposes.
+
+It is not optimized for production environments.
+
+📜 License
+
+This project is licensed under the MIT License.
